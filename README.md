@@ -6,5 +6,5 @@ I build troubleshooting workflows, cloud mini-projects, and WordPress sites. I'm
 
 🔧 Skills: Windows, Linux, Active Directory, Networking, AWS, Azure, WordPress, ticketing systems, PowerShell & Bash scripting.
 
-📂 Portfolio: https://github.com/<arinze-edeh>/IT-Support-Portfolio  
+📂 Portfolio: https://github.com/arinze-edeh/IT-Support-Portfolio  
 📫 Contact: edeharinze389@gmail.com
