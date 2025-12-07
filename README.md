@@ -41,7 +41,7 @@ I’m passionate about **helping people fix technical issues**, improving system
 I am currently completing **13 professional IT Support HomeLabs**, each documented carefully with screenshots and step-by-step processes.
 
 🔹 *Full repository:*  
-👉 **[My HomeLab Projects](https://github.com/arinze-edeh/homelabs)**  
+👉 **[My HomeLab Projects](https://github.com/arinze-edeh/IT-Support-HomeLabs)**  
 
 ### Some Example Labs:
 - Active Directory Setup in VirtualBox  
