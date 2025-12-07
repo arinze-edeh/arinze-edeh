@@ -1,58 +1,92 @@
-# 👋 Hi, I’m Arinze Edeh
+# 👋 Hello, I'm **Arinze Edeh**  
+### 🚀 *IT Support Specialist | Tech Enthusiast | Problem Solver*
 
-Welcome to my GitHub! I am an **IT Support / Help Desk professional** with a strong foundation in computer science, cloud fundamentals, and practical IT labs. I love **solving technical problems, automating processes**, and building hands-on projects that demonstrate real-world IT skills.
+Welcome to my GitHub profile!  
+I’m building a solid foundation in **IT Support, Cloud Computing, Networking, and Systems Administration** through hands-on labs, certifications, and real-life problem solving.
 
----
-
-## 🛠️ Skills & Tools
-
-- **Operating Systems:** Windows (Server & Client), Linux (Ubuntu)  
-- **Networking:** DNS, DHCP, TCP/IP, subnetting, troubleshooting  
-- **Cloud Platforms:** AWS (CCP knowledge), Microsoft Azure Fundamentals  
-- **Automation & Scripting:** PowerShell basics  
-- **IT Support Tools:** Active Directory, Group Policies, Ticketing Systems (Jira / GLPI / OTRS)  
-- **Virtualization:** Hyper-V, VirtualBox, Proxmox  
-- **Monitoring Tools:** Zabbix, PRTG, Wazuh  
-- **Other:** Backup & Restore, Patch Management, Remote Management  
+I’m passionate about **helping people fix technical issues**, improving system reliability, and continuously learning how modern IT infrastructure works.
 
 ---
 
-## 📂 Home Lab Projects
+## 🔧 **Technical Skills**
 
-I document **hands-on IT Support labs** on this GitHub to showcase my skills. Current projects include:
+### 🖥 **IT Support & Systems**
+- Windows Administration  
+- Active Directory (Users, Groups, GPOs)  
+- System Troubleshooting  
+- OS Installation & Imaging  
+- Ticketing Tools (Jira, Freshservice)
 
-1. **Virtualization Lab** – Set up VMs for server & client environments.  
-2. **Active Directory Lab** – Configure domain, OUs, users, and GPOs.  
-3. **Networking Lab** – DNS, DHCP, and network troubleshooting.  
-4. **Windows OS Troubleshooting Lab** – Solve BSOD, permissions, and printer issues.  
-5. **Ticketing System Lab** – Simulate real-world IT ticket management.  
-6. **Linux Server Lab** – Basic Linux commands, SSH, Apache/Nginx setup.  
-7. **PowerShell Automation Lab** – Automate user creation & permissions.  
-8. **Cloud Labs (Azure & AWS)** – Create VMs, storage, and basic IAM roles.  
-9. **Monitoring Lab** – Set up alerts and monitor system performance.  
-10. **Backup & Patch Management Labs** – Implement backups and system updates.  
+### 🌐 **Networking**
+- DNS, DHCP, VPN  
+- TCP/IP, Subnetting  
+- Network Troubleshooting  
+- Wireshark Basics  
 
-> Each lab is fully documented with **screenshots, step-by-step instructions, and outcomes**, demonstrating my ability to handle real IT tasks.
+### ☁️ **Cloud**
+- AWS (Cloud Concepts, IAM, EC2)  
+- Microsoft Azure Fundamentals  
+- Cloud Security Concepts  
 
----
-
-## 🌱 Currently Learning
-
-- Advanced PowerShell scripting  
-- Networking deeper troubleshooting  
-- Cloud services management (AWS & Azure)
-
----
-
-## 📫 How to reach me
-
-- Email: [edeharinze389@gmail.com](mailto:edeharinze389@gmail.com)  
-- LinkedIn: [www.linkedin.com/in/arinze-edeh](https://www.linkedin.com/in/arinze-edeh)  
+### ⚙️ **Tools & Technologies**
+- PowerShell  
+- Command Line (CMD)  
+- Git & GitHub  
+- VirtualBox  
+- Remote Desktop (RDP)  
 
 ---
 
-## 💡 Fun Fact
+## 📘 **HomeLab Projects (Ongoing)**  
+I am currently completing **13 professional IT Support HomeLabs**, each documented carefully with screenshots and step-by-step processes.
 
-I love turning theory into **hands-on practice** — that’s why all my IT projects are **real, working labs** ready for industry use.  
+🔹 *Full repository:*  
+👉 **[My HomeLab Projects](https://github.com/arinze-edeh/homelabs)**  
+
+### Some Example Labs:
+- Active Directory Setup in VirtualBox  
+- AD User, OU & Group Management  
+- Windows Server + Windows Client Networking  
+- DHCP & DNS Configuration  
+- Group Policy Management  
+- File Share Permission Management  
+- PowerShell Automation for IT Support  
+- Basic AWS Cloud Deployment  
+- Log Analysis & Troubleshooting Scenarios  
+- Ticketing System Simulation  
+
+This portfolio is actively growing — you can watch my progress in real time.
 
 ---
+
+## 🎓 **Certifications**
+- Google IT Support Professional Certification  
+- Microsoft Azure Fundamentals  
+- AWS Cloud Practitioner (Expired, Retaking Soon)  
+
+---
+
+## 📄 **Resume**
+👉 *(Upload later — I’ll link it here once available)*
+
+---
+
+## 🤝 **Let’s Connect**
+- 🌐 **LinkedIn:** https://www.linkedin.com/in/arinze-edeh  
+- 📧 **Email:** edeharinze389@gmail.com  
+- 🏙 **Location:** Enugu, Nigeria  
+
+---
+
+## 📊 **GitHub Stats**
+<img src="https://github-readme-stats.vercel.app/api?username=arinze-edeh&show_icons=true&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinze-edeh&layout=compact&theme=tokyonight" height="165">
+
+---
+
+## 🙏 Thank You  
+Thank you for visiting my profile!  
+I'm constantly learning, building, and improving.  
+
+If you're a recruiter, mentor, or fellow tech learner, feel free to reach out!
+
