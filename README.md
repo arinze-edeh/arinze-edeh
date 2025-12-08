@@ -84,9 +84,13 @@ This resume includes my contact information, certifications, and a summary of my
 
 ---
 
-## 📊 **GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=arinze-edeh&show_icons=true&theme=tokyonight" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinze-edeh&layout=compact&theme=tokyonight" height="165">
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arinze-edeh&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinze-edeh&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arinze-edeh&theme=default&hide_border=true)
 
 ---
 
