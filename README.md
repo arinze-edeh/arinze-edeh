@@ -66,8 +66,14 @@ This portfolio is actively growing — you can watch my progress in real time.
 
 ---
 
-## 📄 **Resume**
-👉 *[Download my Resume (PDF)](./Resume_Arinze_Edeh.pdf) · [View in browser](./Resume_Arinze_Edeh.pdf)*
+## 📄 Resume
+
+You can download my resume here:
+
+👉 [Download my Resume (PDF)](./Resume_Arinze_Edeh.pdf)
+
+This resume includes my contact information, certifications, and a summary of my HomeLab projects.
+
 
 ---
 
