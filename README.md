@@ -67,7 +67,7 @@ This portfolio is actively growing — you can watch my progress in real time.
 ---
 
 ## 📄 **Resume**
-👉 *(Upload later — I’ll link it here once available)*
+👉 *[Download my Resume (PDF)](./Resume_Arinze_Edeh.pdf) · [View in browser](./Resume_Arinze_Edeh.pdf)*
 
 ---
 
