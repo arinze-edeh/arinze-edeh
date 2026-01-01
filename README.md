@@ -15,7 +15,7 @@ I’m passionate about **helping people fix technical issues**, improving system
 - Active Directory (Users, Groups, GPOs)  
 - System Troubleshooting  
 - OS Installation & Imaging  
-- Ticketing Tools (Jira, Freshservice)
+- Ticketing Tools (Jira, Freshservice, GLPI)
 
 ### 🌐 **Networking**
 - DNS, DHCP, VPN  
