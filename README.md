@@ -55,7 +55,7 @@ I am currently completing **13 professional IT Support HomeLabs**, each document
 - Log Analysis & Troubleshooting Scenarios  
 - Ticketing System Simulation  
 
-This portfolio is actively growing — you can watch my progress in real time.
+This portfolio is actively growing, you can watch my progress in real time.
 
 ---
 
