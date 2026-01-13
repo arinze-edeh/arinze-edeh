@@ -1,10 +1,11 @@
 # 👋 Hello, I'm **Arinze Edeh**  
-### 🚀 *IT Support Specialist | Tech Enthusiast | Problem Solver*
+### 🚀 *Junior Systems Administrator | Cloud Support | Infrastructure Enthusiast*
 
-Welcome to my GitHub profile!  
-I’m building a solid foundation in **IT Support, Cloud Computing, Networking, and Systems Administration** through hands-on labs, certifications, and real-life problem solving.
+Welcome to my GitHub profile.
 
-I’m passionate about **helping people fix technical issues**, improving system reliability, and continuously learning how modern IT infrastructure works.
+I build and document hands-on labs focused on systems administration, cloud infrastructure, networking, and automation. My work emphasizes real-world scenarios such as server configuration, backup and recovery, patch management, virtualization, and cloud fundamentals using AWS and Azure.
+
+I’m passionate about designing reliable systems, improving infrastructure stability, and continuously learning how modern enterprise IT environments are built and maintained.
 
 ---
 
@@ -38,7 +39,9 @@ I’m passionate about **helping people fix technical issues**, improving system
 ---
 
 ## 📘 **HomeLab Projects (Ongoing)**  
-I am currently completing **13 professional IT Support HomeLabs**, each documented carefully with screenshots and step-by-step processes.
+I am currently completing structured hands-on labs covering systems administration, infrastructure management, cloud computing, and operational best practices.
+
+Each lab is carefully documented with screenshots, configurations, and validation steps to simulate real-world enterprise environments.
 
 🔹 *Full repository:*  
 👉 **[My HomeLab Projects](https://github.com/arinze-edeh/IT-Support-HomeLabs)**  
