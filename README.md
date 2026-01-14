@@ -1,5 +1,5 @@
 # 👋 Hello, I'm **Arinze Edeh**  
-### 🚀 *Associat Systems Administrator | Cloud Support | Infrastructure Enthusiast*
+### 🚀 *Associate Systems Administrator | Cloud Support | Infrastructure Enthusiast*
 
 Welcome to my GitHub profile.
 
