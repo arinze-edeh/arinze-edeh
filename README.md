@@ -65,7 +65,7 @@ This portfolio is actively growing, you can watch my progress in real time.
 ## 🎓 **Certifications**
 - Google IT Support Professional Certification  
 - Microsoft Azure Fundamentals  
-- AWS Cloud Practitioner (Renewal in Progress)  
+- AWS Cloud Practitioner  
 
 ---
 
