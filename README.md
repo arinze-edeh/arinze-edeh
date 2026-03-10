@@ -74,7 +74,7 @@ My repositories are organised across two portfolios representing distinct phases
 
 > **200+ production-grade implementations** across Linux systems engineering, Git workflows, Docker, Kubernetes, Jenkins CI/CD pipelines, Ansible configuration management, Terraform IaC, AWS, and Azure.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-Cloud_and_DevOps_Engineering-326CE5?style=flat-square&logo=github&logoColor=white)](https://github.com/arinze-edeh)
+[![View Repository](https://img.shields.io/badge/View_Repository-Cloud_and_DevOps_Engineering-326CE5?style=flat-square&logo=github&logoColor=white)](https://github.com/arinze-edeh/cloud-infrastructure-devops-labs)
 
 #### Highlights
 
