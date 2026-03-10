@@ -96,7 +96,7 @@ My repositories are organised across two portfolios representing distinct phases
 
 > **13 structured implementations** across Windows Server, Active Directory, networking, monitoring, cloud fundamentals, automation, and IT support operations, simulating enterprise-grade environments.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-IT_Systems_and_Infrastructure-2496ED?style=flat-square&logo=github&logoColor=white)]([https://github.com/arinze-edeh](https://github.com/arinze-edeh/technical-projects-portfolio))
+[![View Repository](https://img.shields.io/badge/View_Repository-IT_Systems_and_Infrastructure-2496ED?style=flat-square&logo=github&logoColor=white)](https://github.com/arinze-edeh/technical-projects-portfolio)
 
 #### Implementations
 
