@@ -160,7 +160,7 @@ Automation and Scripting        Ansible, Terraform, Bash, PowerShell, Jinja2, Gi
 
 ## Connect
 
-I am actively open to Senior DevOps, Cloud Infrastructure, SRE, Platform Engineering, and IT Systems roles. Feel free to reach out directly.
+I am actively open to DevOps, Cloud Infrastructure, SRE, Platform Engineering, and IT Systems roles. Feel free to reach out directly.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arinze-edeh)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arinze-edeh)
@@ -170,5 +170,5 @@ I am actively open to Senior DevOps, Cloud Infrastructure, SRE, Platform Enginee
 ---
 
 <div align="center">
-<sub>Engineered with precision across 213+ implementations in DevOps, Cloud, and IT Systems Infrastructure.</sub>
+<sub>Engineered with precision across 210+ implementations in DevOps, Cloud, and IT Systems Infrastructure.</sub>
 </div>
