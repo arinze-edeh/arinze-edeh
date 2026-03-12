@@ -139,7 +139,7 @@ Automation and Scripting        Ansible, Terraform, Bash, PowerShell, Jinja2, Gi
 
 | Role | Match |
 |---|---|
-| Senior DevOps Engineer | Linux, Git, Docker, Kubernetes, Jenkins, Ansible, Terraform |
+| DevOps Engineer | Linux, Git, Docker, Kubernetes, Jenkins, Ansible, Terraform |
 | Cloud Infrastructure Engineer | AWS and Azure architecture, dual-cloud networking, IAM, compute, storage |
 | Site Reliability Engineer | Kubernetes operations, incident response, observability, rollback procedures |
 | Platform Engineer | Cluster administration, CI/CD design, IaC, internal tooling |
