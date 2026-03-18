@@ -14,7 +14,7 @@
 
 ---
 
-> *Engineering production-grade infrastructure across the full stack —*
+> *Engineering production-grade infrastructure across the full stack,*
 > *from Windows Server & Active Directory through Linux hardening, container orchestration,*
 > *and multi-stage CI/CD pipelines, up to multi-cloud architecture on AWS & Azure.*
 > ***200+ implementations. Every system secure, automated, and production-ready.***
