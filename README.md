@@ -1,29 +1,48 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A8C5DA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arinze+Edeh;Cloud+%26+DevOps+Engineer;Infrastructure+Specialist;Multi-Cloud+Practitioner"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arinze+Edeh;Cloud+%26+DevOps+Engineer;Infrastructure+Specialist;Multi-Cloud+Practitioner" alt="Typing animation"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4000&pause=500&color=00FFB2&center=true&vCenter=true&width=800&height=24&lines=%E2%96%B6+Cloud+%26+DevOps+Engineer+%C2%B7+Systems+%26+Infrastructure+Specialist"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&height=24&lines=%E2%96%B6+Cloud+%26+DevOps+Engineer+%C2%B7+Systems+%26+Infrastructure+Specialist" alt=""/>
 </picture>
 
+# Arinze Edeh
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=800&height=26&lines=Cloud+Engineer+%C2%B7+DevOps+Engineer+%C2%B7+SysAdmin+%C2%B7+IT+Support+Specialist;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform+%7C+Ansible+%7C+Jenkins+%7C+Docker;Windows+Server+%7C+Active+Directory+%7C+Linux+%7C+Group+Policy+%7C+WSUS;200%2B+Production+Implementations+%C2%B7+Open+to+Work+%7C+Relocation+%7C+Remote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=900&color=388BFD&center=true&vCenter=true&width=800&height=26&lines=Cloud+Engineer+%C2%B7+DevOps+Engineer+%C2%B7+SysAdmin+%C2%B7+IT+Support+Specialist;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform+%7C+Ansible+%7C+Jenkins+%7C+Docker;Windows+Server+%7C+Active+Directory+%7C+Linux+%7C+Group+Policy+%7C+WSUS;200%2B+Production+Implementations+%C2%B7+Open+to+Work+%7C+Relocation+%7C+Remote" alt="Roles"/>
+</picture>
+
+---
+
+> *Engineering production-grade infrastructure across the full stack —*
+> *from Windows Server & Active Directory through Linux hardening, container orchestration,*
+> *and multi-stage CI/CD pipelines, up to multi-cloud architecture on AWS & Azure.*
+> ***200+ implementations. Every system secure, automated, and production-ready.***
+
 <br/>
 
-*Engineering production-grade infrastructure across Linux, containers, Kubernetes, CI/CD pipelines, and multi-cloud platforms on AWS and Azure.*
+![](https://img.shields.io/badge/200%2B-Implementations-ffffff?style=flat-square&labelColor=0d62ff)
+![](https://img.shields.io/badge/AWS_%2B_Azure-40%2B_Services-ffffff?style=flat-square&labelColor=0369a1)
+![](https://img.shields.io/badge/EKS_%C2%B7_AKS_%C2%B7_K8s-Cluster_Ops-ffffff?style=flat-square&labelColor=6366f1)
+![](https://img.shields.io/badge/Open_to-Work_%7C_Remote_%7C_Relocation-ffffff?style=flat-square&labelColor=059669)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arinze-edeh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arinze-edeh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arinze-edeh)
+[![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arinze-edeh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edeharinze389@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Enugu%2C%20Nigeria-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Enugu%2C_NG-Open_to_Relocation_%26_Remote-059669?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
 
-[![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
-[![Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](#)
-[![Google IT](https://img.shields.io/badge/Google-IT%20Support%20Professional-4285F4?style=flat-square&logo=google&logoColor=white)](#)
+[![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a1a)](#)
+[![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a1a)](#)
+[![Google IT](https://img.shields.io/badge/Google-IT%20Support%20Professional-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=1a1a1a)](#)
 
-<img src="https://github-readme-stats.vercel.app/api?username=arinze-edeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=arinze-edeh&theme=tokyonight&hide_border=true" height="150"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=arinze-edeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FFB2&icon_color=58A6FF&text_color=8b949e&ring_color=00FFB2" height="155"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=arinze-edeh&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB2&fire=58A6FF&currStreakLabel=00FFB2&sideLabels=8b949e&dates=555555&stroke=21262d" height="155"/>
 
 </div>
 
