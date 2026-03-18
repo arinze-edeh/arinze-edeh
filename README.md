@@ -1,25 +1,39 @@
-# Hi, I'm Arinze Edeh
-
 <div align="center">
 
-### Cloud and DevOps Engineer | Infrastructure Specialist | Multi-Cloud Practitioner
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A8C5DA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arinze+Edeh;Cloud+%26+DevOps+Engineer;Infrastructure+Specialist;Multi-Cloud+Practitioner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arinze+Edeh;Cloud+%26+DevOps+Engineer;Infrastructure+Specialist;Multi-Cloud+Practitioner" alt="Typing animation"/>
+</picture>
+
+<br/>
 
 *Engineering production-grade infrastructure across Linux, containers, Kubernetes, CI/CD pipelines, and multi-cloud platforms on AWS and Azure.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arinze-edeh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arinze-edeh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edeharinze389@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Enugu%2C_Nigeria-4CAF50?style=flat-square&logo=googlemaps&logoColor=white)](#)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arinze-edeh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arinze-edeh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edeharinze389@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Enugu%2C%20Nigeria-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+<br/>
+
+[![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
+[![Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](#)
+[![Google IT](https://img.shields.io/badge/Google-IT%20Support%20Professional-4285F4?style=flat-square&logo=google&logoColor=white)](#)
+
+<img src="https://github-readme-stats.vercel.app/api?username=arinze-edeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=arinze-edeh&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I am a Cloud and DevOps Engineer with a hands-on engineering portfolio spanning **200+ production-grade implementations** across DevOps automation, AWS cloud architecture, Azure cloud architecture, and enterprise systems infrastructure. My work covers the complete infrastructure lifecycle: from Windows Server and Active Directory administration through container orchestration, multi-stage CI/CD pipeline design, infrastructure-as-code provisioning, and multi-cloud service integration.
+I am a Cloud and DevOps Engineer with a hands-on engineering portfolio spanning **200+ production-grade implementations** across DevOps automation, AWS and Azure cloud architecture, and enterprise systems infrastructure. My work covers the complete infrastructure lifecycle: from Windows Server and Active Directory administration through container orchestration, multi-stage CI/CD pipeline design, infrastructure-as-code provisioning, and multi-cloud service integration.
 
-I build systems that are secure, observable, automated, and built to last. Every implementation in my repositories reflects real-world operational patterns, documented with precision and engineered to production standards.
+I build systems that are secure, observable, automated, and built to scale. Every implementation across my repositories reflects real-world operational patterns, documented with precision and engineered to production standards.
 
 **What I bring to a team:**
 
@@ -27,7 +41,7 @@ I build systems that are secure, observable, automated, and built to last. Every
 - Security-first engineering across IAM, network controls, OS hardening, and secrets management
 - Deep automation capability spanning Ansible, Terraform, Jenkins pipelines, PowerShell, and Bash
 - Proven incident diagnosis and resolution across Kubernetes, Linux, cloud networking, and Windows systems
-- Dual-cloud fluency across both AWS and Microsoft Azure
+- Dual-cloud fluency across AWS and Microsoft Azure with 40+ combined service implementations
 
 ---
 
@@ -52,21 +66,9 @@ I build systems that are secure, observable, automated, and built to last. Every
 
 ---
 
-## Certifications
-
-<div align="center">
-
-[![AWS CCP](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
-[![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure_Fundamentals_AZ--900-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](#)
-[![Google IT](https://img.shields.io/badge/Google-IT_Support_Professional-4285F4?style=flat-square&logo=google&logoColor=white)](#)
-
-</div>
-
----
-
 ## Engineering Portfolio
 
-My repositories are organised across two portfolios representing distinct phases of engineering depth and specialisation.
+My work is organised across two repositories representing distinct phases of engineering depth and specialisation.
 
 ---
 
@@ -74,18 +76,18 @@ My repositories are organised across two portfolios representing distinct phases
 
 > **200+ production-grade implementations** across Linux systems engineering, Git workflows, Docker, Kubernetes, Jenkins CI/CD pipelines, Ansible configuration management, Terraform IaC, AWS, and Azure.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-Cloud_and_DevOps_Engineering-326CE5?style=flat-square&logo=github&logoColor=white)](https://github.com/arinze-edeh/cloud-infrastructure-devops-labs)
+[![View Repository](https://img.shields.io/badge/View%20Repository-Cloud%20and%20DevOps%20Engineering-326CE5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arinze-edeh/cloud-infrastructure-devops-labs)
 
-#### Highlights
+<br/>
 
 | Area | What Was Built |
 |---|---|
-| **Linux Systems Engineering** | Hardened server environments with SELinux, IPtables, SSH enforcement, LAMP, Nginx LBR, SSL/TLS, PHP-FPM, PostgreSQL, and cron automation |
-| **Container Platform Engineering** | Optimised Dockerfiles, multi-service Docker Compose stacks, custom bridge networks, runtime debugging, and full application containerization |
+| **Linux Systems Engineering** | Hardened server environments with SELinux, IPtables, SSH enforcement, LAMP, Nginx load balancing, SSL/TLS, PHP-FPM, PostgreSQL, and cron automation |
+| **Container Platform Engineering** | Optimised Dockerfiles, multi-service Docker Compose stacks, custom bridge networks, runtime debugging, and full application containerisation |
 | **Kubernetes Cluster Operations** | Self-managed, EKS, and AKS cluster administration including rolling updates, rollbacks, PersistentVolumes, sidecars, init containers, Secrets, and live incident resolution |
 | **Jenkins CI/CD Architecture** | Multistage declarative pipelines with RBAC, distributed agent nodes, conditional logic, parameterised builds, chained deployments, and automated operational jobs |
 | **Ansible Configuration Management** | Idempotent playbooks across 10+ modules, Jinja2 templating, ACL enforcement, service lifecycle management, and multi-server inventory segmentation |
-| **Terraform IaC** | AWS VPC, subnets, EC2, security groups, IAM policies, DynamoDB access, and CloudWatch alarms provisioned through version-controlled Terraform configurations |
+| **Terraform Infrastructure as Code** | AWS VPC, subnets, EC2, security groups, IAM policies, DynamoDB access, and CloudWatch alarms provisioned through version-controlled Terraform configurations |
 | **AWS Architecture** | Compute, networking (VPC, ALB, NAT, Peering), IAM, S3, RDS, DynamoDB, Lambda, ECS, EKS, Auto Scaling, SQS, SNS, CloudFormation, KMS, ECR |
 | **Azure Architecture** | VMs, VNets, NSGs, Managed Disks, Blob Storage, ACR, AKS, Azure SQL, Event Hub, Application Gateway, Key Vault, ARM Templates, VNet Peering |
 | **Incident Response** | Diagnosed and resolved live faults across Kubernetes VolumeMounts, Dockerfile failures, MariaDB outages, Linux process incidents, EC2 connectivity, and Azure VNet misconfigurations |
@@ -94,50 +96,50 @@ My repositories are organised across two portfolios representing distinct phases
 
 ### IT Systems and Infrastructure Engineering
 
-> **13 structured implementations** across Windows Server, Active Directory, networking, monitoring, cloud fundamentals, automation, and IT support operations, simulating enterprise-grade environments.
+> **13 structured implementations** across Windows Server, Active Directory, networking, monitoring, cloud fundamentals, automation, and IT support operations, simulating enterprise on-premises environments end-to-end.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-IT_Systems_and_Infrastructure-2496ED?style=flat-square&logo=github&logoColor=white)](https://github.com/arinze-edeh/technical-projects-portfolio)
+[![View Repository](https://img.shields.io/badge/View%20Repository-IT%20Systems%20and%20Infrastructure-2496ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arinze-edeh/technical-projects-portfolio)
 
-#### Implementations
+<br/>
 
 | # | Project | Scope |
 |---|---|---|
-| 01 | **Hypervisor and Virtual Environment Setup** | Provisioned a multi-VM virtualised environment using VirtualBox as the foundation for all infrastructure work |
-| 02 | **Active Directory Domain Services (Part 1)** | Configured a Windows Server domain controller with Organisational Units, user accounts, and domain join operations |
-| 03 | **Active Directory Domain Services (Part 2)** | Implemented Group Policy Objects, permission structures, login scripts, and domain-wide security policy enforcement |
-| 04 | **Enterprise Networking Configuration** | Configured DNS, DHCP, IP addressing, subnetting, and performed packet-level analysis using Wireshark |
+| 01 | **Hypervisor and Virtual Environment Setup** | Provisioned a multi-VM virtualised environment using VirtualBox as the foundation for all subsequent infrastructure work |
+| 02 | **Active Directory Domain Services I** | Configured a Windows Server domain controller with a structured OU hierarchy, user accounts, and domain join operations |
+| 03 | **Active Directory Domain Services II** | Implemented Group Policy Objects, NTFS permission delegation, login scripts, and domain-wide security policy enforcement |
+| 04 | **Enterprise Networking Configuration** | Configured DNS, DHCP, IP addressing, subnetting, and performed fault isolation with packet-level traffic analysis |
 | 05 | **Windows OS Fault Diagnosis and Recovery** | Diagnosed and resolved BSOD incidents, startup failures, printer faults, and malware-related system degradation |
-| 06 | **IT Service Management and Ticketing Operations** | Simulated enterprise IT support workflows using GLPI including ticket creation, assignment, escalation, and resolution |
-| 07 | **Linux Server Administration** | Deployed Ubuntu Server with SSH hardening, Apache and Nginx web server configuration, and cron-based task scheduling |
-| 08 | **PowerShell Infrastructure Automation** | Automated Active Directory user provisioning and permission assignment workflows using PowerShell scripting |
-| 09 | **Azure Cloud Infrastructure Fundamentals** | Provisioned Azure VMs, storage accounts, Virtual Networks, and IAM role assignments |
-| 10 | **AWS Cloud Infrastructure Fundamentals** | Deployed EC2 instances, S3 buckets, security groups, and IAM configurations on AWS |
-| 11 | **Infrastructure Monitoring and Alerting** | Deployed Zabbix, PRTG, and Wazuh for system monitoring, threshold-based alerting, and log analysis |
-| 12 | **Backup, Recovery, and Business Continuity** | Implemented system backup strategies, restore point management, and validated file-level recovery procedures |
-| 13 | **Patch Management and Update Operations** | Simulated enterprise patch deployment and validation workflows applying WSUS-based concepts |
+| 06 | **IT Service Management with GLPI** | Simulated a full enterprise support workflow covering ticket intake, assignment, escalation, SLA compliance, and resolution |
+| 07 | **Linux Server Administration** | Deployed Ubuntu Server with SSH hardening, Apache and Nginx configuration, and cron-based task scheduling |
+| 08 | **PowerShell Infrastructure Automation** | Scripted Active Directory user provisioning, group membership management, and permission assignment at scale |
+| 09 | **Azure Cloud Infrastructure Fundamentals** | Provisioned Azure VMs, storage accounts, Virtual Networks, and role-based access control configurations |
+| 10 | **AWS Cloud Infrastructure Fundamentals** | Deployed EC2 instances, S3 buckets, security groups, and IAM configurations aligned with least-privilege principles |
+| 11 | **Infrastructure Monitoring and Alerting** | Deployed Zabbix, PRTG, and Wazuh for system monitoring, threshold-based alerting, and centralised log analysis |
+| 12 | **Backup, Recovery, and Business Continuity** | Designed backup strategies, managed restore points, and validated file-level disaster recovery procedures |
+| 13 | **Patch Management and Update Operations** | Simulated an enterprise patching cycle using WSUS concepts including staging, deployment, validation, and rollback |
 
 ---
 
-## Engineering Competencies at a Glance
+## Engineering Competencies
 
 ```
-Multi-Cloud Engineering         AWS and Azure production architecture, 40+ combined service implementations
+Multi-Cloud Engineering         AWS and Azure production architecture across 40+ combined services
 Infrastructure as Code          Terraform, Ansible, ARM Templates, CloudFormation
 Container Orchestration         Kubernetes (EKS, AKS, self-managed), Docker, Docker Compose, ECS
-CI/CD Pipeline Architecture     Jenkins multistage pipelines, RBAC, distributed builds, chained deployments
+CI/CD Pipeline Architecture     Jenkins multistage pipelines, RBAC, distributed builds, parameterised deployments
 Linux and Windows Systems       Hardening, AD, Group Policy, process management, service administration
 Security Engineering            IAM, KMS, Key Vault, SELinux, IPtables, NSG, RBAC, SSL/TLS, SSH
 Incident Response               Kubernetes, Linux, Windows, cloud networking, and database fault resolution
 Monitoring and Observability    Zabbix, PRTG, Wazuh, Grafana, CloudWatch
-Networking                      TCP/IP, DNS, DHCP, VPC, VNet, NAT, peering, load balancing, Wireshark
-Automation and Scripting        Ansible, Terraform, Bash, PowerShell, Jinja2, Git hooks, AWS CLI, Azure CLI
+Networking                      TCP/IP, DNS, DHCP, VPC, VNet, NAT, peering, load balancing, packet analysis
+Automation and Scripting        Ansible, Terraform, Bash, PowerShell, Jinja2, Git, AWS CLI, Azure CLI
 ```
 
 ---
 
 ## Currently Targeting
 
-| Role | Match |
+| Role | Core Match |
 |---|---|
 | DevOps Engineer | Linux, Git, Docker, Kubernetes, Jenkins, Ansible, Terraform |
 | Cloud Infrastructure Engineer | AWS and Azure architecture, dual-cloud networking, IAM, compute, storage |
@@ -148,27 +150,28 @@ Automation and Scripting        Ansible, Terraform, Bash, PowerShell, Jinja2, Gi
 | Infrastructure Engineer | Multi-cloud networking, IaC, compute provisioning, storage architecture |
 | Automation Engineer | Ansible, Terraform, PowerShell, Bash, Jinja2, CloudFormation, ARM Templates |
 | CI/CD Engineer | Jenkins pipelines, distributed builds, parameterised deployments, RBAC |
-| Kubernetes Engineer | EKS, AKS, self-managed clusters, persistent volumes, sidecar and init container patterns |
+| Kubernetes Engineer | EKS, AKS, self-managed clusters, PersistentVolumes, sidecar and init container patterns |
 
 ---
 
 ## Resume
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume_PDF-D14836?style=flat-square&logo=adobeacrobatreader&logoColor=white)](#)
-
----
-
-## Connect
-
-I am actively open to DevOps, Cloud Infrastructure, SRE, Platform Engineering, and IT Systems roles. Feel free to reach out directly.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arinze-edeh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arinze-edeh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edeharinze389@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Enugu%2C_Nigeria-4CAF50?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Download Resume](https://img.shields.io/badge/Download-Resume%20PDF-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
 
 ---
 
 <div align="center">
-<sub>Engineered with precision across 210+ implementations in DevOps, Cloud, and IT Systems Infrastructure.</sub>
+
+*Actively open to DevOps, Cloud Infrastructure, SRE, Platform Engineering, and IT Systems roles.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arinze-edeh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arinze-edeh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edeharinze389@gmail.com)
+
+<br/>
+
+<sub>210+ implementations across DevOps, Cloud, and IT Systems Infrastructure.</sub>
+
 </div>
