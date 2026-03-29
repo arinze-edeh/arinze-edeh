@@ -41,7 +41,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arinze-edeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FFB2&icon_color=58A6FF&text_color=8b949e&ring_color=00FFB2" height="155"/>
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arinze-edeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FFB2&icon_color=58A6FF&text_color=8b949e&ring_color=00FFB2&hide_rank=true" height="155"/>](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arinze-edeh&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=arinze-edeh&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB2&fire=58A6FF&currStreakLabel=00FFB2&sideLabels=8b949e&dates=555555&stroke=21262d" height="155"/>
 
 </div>
