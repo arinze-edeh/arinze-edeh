@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4000&pause=500&color=00FFB2&center=true&vCenter=true&width=800&height=24&lines=%E2%96%B6+Cloud+%26+DevOps+Engineer+%C2%B7+Systems+%26+Infrastructure+Specialist"/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&height=24&lines=%E2%96%B6+Cloud+%26+DevOps+Engineer+%C2%B7+Systems+%26+Infrastructure+Specialist" alt=""/>
