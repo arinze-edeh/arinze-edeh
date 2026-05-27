@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/200%2B-Implementations-ffffff?style=flat-square&labelColor=0d62ff)
 ![](https://img.shields.io/badge/AWS_%2B_Azure-40%2B_Services-ffffff?style=flat-square&labelColor=0369a1)
 ![](https://img.shields.io/badge/EKS_%C2%B7_AKS_%C2%B7_K8s-Cluster_Ops-ffffff?style=flat-square&labelColor=6366f1)
+![](https://img.shields.io/badge/KodeKloud-Top_10_Global_%E2%80%A2_Senior_DevOps-ffffff?style=flat-square&labelColor=e11d48)
 ![](https://img.shields.io/badge/Open_to-Work_%7C_Remote_%7C_Relocation-ffffff?style=flat-square&labelColor=059669)
 
 <br/>
@@ -38,6 +39,8 @@
 [![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a1a)](#)
 [![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a1a)](#)
 [![Google IT](https://img.shields.io/badge/Google-IT%20Support%20Professional-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=1a1a1a)](#)
+[![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104%20In%20Progress-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a1a)](#)
+[![SAA-C03](https://img.shields.io/badge/AWS-SAA--C03%20In%20Progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a1a)](#)
 
 <br/>
 
@@ -58,7 +61,7 @@ My work covers the complete infrastructure lifecycle: from helpdesk support work
 
 - End-to-end infrastructure delivery across on-premises and cloud environments
 - Security-first engineering across IAM, network controls, OS hardening, and secrets management
-- Deep automation capability spanning Ansible, Terraform, Jenkins pipelines, PowerShell, and Bash
+- Deep automation capability spanning Ansible, Terraform, Jenkins pipelines, GitHub Actions, PowerShell, and Bash
 - Structured incident diagnosis and resolution across Kubernetes, Linux, cloud networking, and Windows systems
 - Dual-cloud fluency across AWS and Microsoft Azure with 40+ combined service implementations
 
@@ -71,13 +74,13 @@ My work covers the complete infrastructure lifecycle: from helpdesk support work
 | **Operating Systems** | Linux (RHEL, Ubuntu), Windows Server, Windows Client |
 | **Cloud Platforms** | AWS (20+ services), Microsoft Azure (20+ services) |
 | **Containerization** | Docker, Docker Compose, Dockerfile authoring, container networking |
-| **Orchestration** | Kubernetes (self-managed, EKS, AKS), PersistentVolumes, RBAC, Secrets |
-| **CI/CD and Automation** | Jenkins (multistage pipelines, distributed builds), Git, GitHub, PowerShell, Bash |
+| **Orchestration** | Kubernetes (k3s, EKS, AKS), PersistentVolumes, RBAC, Secrets, Helm, QoS classes, resource limits |
+| **CI/CD and Automation** | Jenkins (multistage pipelines, distributed builds), GitHub Actions, Git, GitHub, PowerShell, Bash, Python (boto3, Azure SDK) |
 | **Infrastructure as Code** | Terraform, Ansible (10+ modules), ARM Templates, AWS CloudFormation |
-| **Networking** | TCP/IP, DNS, DHCP, Subnetting, VPC, VNet, NAT, Load Balancing, Wireshark |
-| **Security** | IAM, KMS, Azure Key Vault, SELinux, IPtables, NSG, SSL/TLS, SSH hardening, RBAC |
-| **Monitoring and Observability** | Zabbix, PRTG, Wazuh, Grafana, AWS CloudWatch |
-| **Systems Administration** | Active Directory, Group Policy, WSUS, Backup and Recovery, GLPI |
+| **Networking** | TCP/IP, DNS, DHCP, VPN, Subnetting, VPC, VNet, NAT, Load Balancing, Wireshark |
+| **Security** | IAM, KMS, Azure Key Vault, SELinux, IPtables, NSG, SSL/TLS, SSH hardening, RBAC, zero-trust design |
+| **Monitoring and Observability** | Prometheus, Alertmanager, Zabbix, PRTG, Wazuh, Grafana, AWS CloudWatch |
+| **Systems Administration** | Active Directory, Group Policy, WSUS, Microsoft 365, Backup and Recovery, GLPI |
 | **Web and App Servers** | Nginx, Apache, Tomcat, PHP-FPM |
 | **Databases** | PostgreSQL, MariaDB, MySQL, Amazon RDS, DynamoDB, Azure SQL |
 | **Virtualization** | VirtualBox, Azure VMs, AWS EC2 |
@@ -93,9 +96,14 @@ My work is organised across two repositories representing distinct phases of eng
 
 ### Cloud and DevOps Engineering
 
-> **200+ hands-on implementations** across Linux systems engineering, Git workflows, Docker, Kubernetes, Jenkins CI/CD pipelines, Ansible configuration management, Terraform IaC, AWS, and Azure, every scenario built, configured, and documented to production standards.
+> **200+ hands-on implementations** across Linux systems engineering, Git workflows, Docker, Kubernetes, Jenkins CI/CD pipelines, GitHub Actions, Ansible configuration management, Terraform IaC, AWS, and Azure, every scenario built, configured, and documented to production standards.
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-Cloud%20and%20DevOps%20Engineering-326CE5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arinze-edeh/cloud-infrastructure-devops-labs)
+
+
+#### Flagship Project - Production-Style Multi-Cloud CI/CD Platform
+
+> End-to-end AWS infrastructure (VPC, EKS, IAM, DynamoDB, CloudWatch) provisioned via Terraform with zero manual console configuration. Jenkins multistage CI/CD with parameterized builds, distributed agents, RBAC, and automated rollback on failed health checks. Dockerized microservices orchestrated on EKS with rolling update strategy, PersistentVolumes, Secrets management, QoS enforcement, KMS encryption at rest, SSL/TLS in transit, and zero-trust network segmentation across VPCs. Centralized observability via CloudWatch and Grafana with threshold alerting and log ingestion from cross-VPC sources.
 
 <br/>
 
@@ -103,12 +111,14 @@ My work is organised across two repositories representing distinct phases of eng
 |---|---|
 | **Linux Systems Engineering** | Hardened server environments with SELinux, IPtables, SSH enforcement, LAMP, Nginx load balancing, SSL/TLS, PHP-FPM, PostgreSQL, and cron automation |
 | **Container Platform Engineering** | Optimised Dockerfiles, multi-service Docker Compose stacks, custom bridge networks, runtime debugging, and full application containerisation |
-| **Kubernetes Cluster Operations** | Self-managed, EKS, and AKS cluster administration including rolling updates, rollbacks, PersistentVolumes, sidecars, init containers, Secrets, and structured incident resolution |
+| **Kubernetes Cluster Operations** | k3s, EKS, and AKS cluster administration including rolling updates, rollbacks, PersistentVolumes, sidecars, init containers, Secrets, resource limits, QoS classes, Helm chart deployments, and structured incident resolution |
 | **Jenkins CI/CD Architecture** | Multistage declarative pipelines with RBAC, distributed agent nodes, conditional logic, parameterised builds, chained deployments, and automated operational jobs |
+| **GitHub Actions** | Automated build/test/deploy workflows integrated with containerised application pipelines |
 | **Ansible Configuration Management** | Idempotent playbooks across 10+ modules, Jinja2 templating, ACL enforcement, service lifecycle management, and multi-server inventory segmentation |
 | **Terraform Infrastructure as Code** | AWS VPC, subnets, EC2, security groups, IAM policies, DynamoDB access, and CloudWatch alarms provisioned through version-controlled Terraform configurations |
 | **AWS Architecture** | Compute, networking (VPC, ALB, NAT, Peering), IAM, S3, RDS, DynamoDB, Lambda, ECS, EKS, Auto Scaling, SQS, SNS, CloudFormation, KMS, ECR |
 | **Azure Architecture** | VMs, VNets, NSGs, Managed Disks, Blob Storage, ACR, AKS, Azure SQL, Event Hub, Application Gateway, Key Vault, ARM Templates, VNet Peering |
+| **Monitoring and Observability** | Prometheus/Alertmanager stacks, CloudWatch cross-VPC log ingestion, Grafana dashboards, threshold alerting |
 | **Incident Response** | Diagnosed and resolved structured fault scenarios across Kubernetes VolumeMounts, Dockerfile failures, MariaDB outages, Linux process incidents, EC2 connectivity, and Azure VNet misconfigurations |
 
 ---
@@ -126,7 +136,7 @@ My work is organised across two repositories representing distinct phases of eng
 | 01 | **Hypervisor and Virtual Environment Setup** | Provisioned a multi-VM virtualised environment using VirtualBox as the foundation for all subsequent infrastructure work |
 | 02 | **Active Directory Domain Services I** | Configured a Windows Server domain controller with a structured OU hierarchy, user accounts, and domain join operations |
 | 03 | **Active Directory Domain Services II** | Implemented Group Policy Objects, NTFS permission delegation, login scripts, and domain-wide security policy enforcement |
-| 04 | **Enterprise Networking Configuration** | Configured DNS, DHCP, IP addressing, subnetting, and performed fault isolation with packet-level traffic analysis |
+| 04 | **Enterprise Networking Configuration** | Configured DNS, DHCP, VPN, IP addressing, subnetting, and performed fault isolation with packet-level traffic analysis |
 | 05 | **Windows OS Fault Diagnosis and Recovery** | Diagnosed and resolved BSOD incidents, startup failures, printer faults, and malware-related system degradation |
 | 06 | **IT Service Management with GLPI** | Simulated a full enterprise support workflow covering ticket intake, assignment, escalation, SLA compliance, and resolution |
 | 07 | **Linux Server Administration** | Deployed Ubuntu Server with SSH hardening, Apache and Nginx configuration, and cron-based task scheduling |
@@ -144,14 +154,14 @@ My work is organised across two repositories representing distinct phases of eng
 ```
 Multi-Cloud Engineering         AWS and Azure architecture across 40+ combined services
 Infrastructure as Code          Terraform, Ansible, ARM Templates, CloudFormation
-Container Orchestration         Kubernetes (EKS, AKS, self-managed), Docker, Docker Compose, ECS
-CI/CD Pipeline Architecture     Jenkins multistage pipelines, RBAC, distributed builds, parameterised deployments
-Linux and Windows Systems       Hardening, AD, Group Policy, process management, service administration
-Security Engineering            IAM, KMS, Key Vault, SELinux, IPtables, NSG, RBAC, SSL/TLS, SSH
+Container Orchestration         Kubernetes (k3s, EKS, AKS), Docker, Docker Compose, ECS, Helm
+CI/CD Pipeline Architecture     Jenkins multistage pipelines, GitHub Actions, RBAC, distributed builds, parameterised deployments
+Linux and Windows Systems       Hardening, AD, Group Policy, M365, process management, service administration
+Security Engineering            IAM, KMS, Key Vault, SELinux, IPtables, NSG, RBAC, SSL/TLS, SSH, zero-trust
 Incident Response               Kubernetes, Linux, Windows, cloud networking, and database fault diagnosis
-Monitoring and Observability    Zabbix, PRTG, Wazuh, Grafana, CloudWatch
-Networking                      TCP/IP, DNS, DHCP, VPC, VNet, NAT, peering, load balancing, packet analysis
-Automation and Scripting        Ansible, Terraform, Bash, PowerShell, Jinja2, Git, AWS CLI, Azure CLI
+Monitoring and Observability    Prometheus, Alertmanager, Zabbix, PRTG, Wazuh, Grafana, CloudWatch
+Networking                      TCP/IP, DNS, DHCP, VPN, VPC, VNet, NAT, peering, load balancing, packet analysis
+Automation and Scripting        Ansible, Terraform, Bash, PowerShell, Python (boto3, Azure SDK), Jinja2, Git, AWS CLI, Azure CLI
 IT Support and Helpdesk         Ticket management, SLA compliance, escalation, fault diagnosis, end-user support
 ```
 
@@ -165,14 +175,14 @@ IT Support and Helpdesk         Ticket management, SLA compliance, escalation, f
 | Helpdesk Engineer | Ticket management, GLPI, SLA compliance, escalation, remote administration |
 | IT Systems Administrator | Active Directory, Windows Server, Linux, networking, backup, patch management |
 | Cloud Support Engineer | AWS and Azure fundamentals, monitoring, connectivity troubleshooting |
-| DevOps Engineer | Linux, Git, Docker, Kubernetes, Jenkins, Ansible, Terraform |
+| DevOps Engineer | Linux, Git, Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, Terraform |
 | Cloud Infrastructure Engineer | AWS and Azure architecture, dual-cloud networking, IAM, compute, storage |
 | Site Reliability Engineer | Kubernetes operations, incident response, observability, rollback procedures |
 | Platform Engineer | Cluster administration, CI/CD design, IaC, internal tooling |
 | Infrastructure Engineer | Multi-cloud networking, IaC, compute provisioning, storage architecture |
-| Automation Engineer | Ansible, Terraform, PowerShell, Bash, Jinja2, CloudFormation, ARM Templates |
-| CI/CD Engineer | Jenkins pipelines, distributed builds, parameterised deployments, RBAC |
-| Kubernetes Engineer | EKS, AKS, self-managed clusters, PersistentVolumes, sidecar and init container patterns |
+| Automation Engineer | Ansible, Terraform, PowerShell, Bash, Python, CloudFormation, ARM Templates |
+| CI/CD Engineer | Jenkins pipelines, GitHub Actions, distributed builds, parameterised deployments, RBAC |
+| Kubernetes Engineer | k3s, EKS, AKS, PersistentVolumes, Helm, sidecar and init container patterns |
 
 ---
 
