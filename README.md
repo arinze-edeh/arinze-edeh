@@ -178,7 +178,7 @@ IT Support and Helpdesk         Ticket management, SLA compliance, escalation, f
 
 ## Resume
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume%20PDF-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
+[![Download Resume](https://img.shields.io/badge/Download-Resume%20PDF-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/arinze-edeh/arinze-edeh/blob/main/Arinze_Edeh_Resume.pdf)
 
 ---
 
