@@ -39,7 +39,7 @@
 [![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a1a)](#)
 [![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a1a)](#)
 [![Google IT](https://img.shields.io/badge/Google-IT%20Support%20Professional-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=1a1a1a)](#)
-[![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104%20In%20Progress-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a1a)](#)
+[![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104%20-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a1a)](#)
 [![SAA-C03](https://img.shields.io/badge/AWS-SAA--C03%20In%20Progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a1a)](#)
 
 <br/>
