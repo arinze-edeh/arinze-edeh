@@ -1,4 +1,4 @@
-<div align="center">
+<img width="407" height="250" alt="image" src="https://github.com/user-attachments/assets/da6d83b6-6ebd-48bd-ad60-b646009d4295" /><div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4000&pause=500&color=00FFB2&center=true&vCenter=true&width=800&height=24&lines=%E2%96%B6+Cloud+%26+DevOps+Engineer+%C2%B7+Systems+%26+Infrastructure+Specialist"/>
@@ -201,7 +201,7 @@ IT Support and Helpdesk         Ticket management, SLA compliance, escalation, f
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arinze-edeh)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arinze-edeh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edeharinze389@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arinzeedeh.dev@gmail.com)
 
 <br/>
 
