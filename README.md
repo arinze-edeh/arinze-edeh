@@ -31,16 +31,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arinze-edeh)
 [![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arinze-edeh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edeharinze389@gmail.com)
-[![Location](https://img.shields.io/badge/Enugu%2C_NG-Open_to_Relocation_%26_Remote-059669?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arinzeedeh.dev@gmail.com)
+[![Location](https://img.shields.io/badge/Nigeria%20(GMT%2B1)-Open_to_Relocation_%26_Remote-059669?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
 
-[![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a1a)](#)
-[![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a1a)](#)
+[![AZ-104](https://img.shields.io/badge/Microsoft-Azure%20Administrator%20(AZ--104)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a1a)](#)
+[![IBM Cybersecurity](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst%20Professional-052FAD?style=flat-square&logo=ibm&logoColor=white&labelColor=1a1a1a)](#)
 [![Google IT](https://img.shields.io/badge/Google-IT%20Support%20Professional-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=1a1a1a)](#)
-[![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104%20-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a1a)](#)
-[![SAA-C03](https://img.shields.io/badge/AWS-SAA--C03%20In%20Progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a1a)](#)
+[![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a1a)](#)
+[![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a1a)](#)
 
 <br/>
 
