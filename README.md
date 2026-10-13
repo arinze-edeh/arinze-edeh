@@ -39,7 +39,7 @@
 [![AZ-104](https://img.shields.io/badge/Microsoft-Azure%20Administrator%20(AZ--104)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a1a)](#)
 [![IBM Cybersecurity](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst%20Professional-052FAD?style=flat-square&logo=ibm&logoColor=white&labelColor=1a1a1a)](#)
 [![Google IT](https://img.shields.io/badge/Google-IT%20Support%20Professional-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=1a1a1a)](#)
-[![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a1a)](#)
+[![AZ-400](https://img.shields.io/badge/Microsoft-DevOps%20Engineer%20Expert%20(AZ--400)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=1a1a1a)](#)
 [![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a1a)](#)
 
 <br/>
